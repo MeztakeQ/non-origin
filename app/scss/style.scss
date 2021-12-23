@@ -375,6 +375,7 @@ line-height: 21px;
         position: absolute;
        top: 0;
         width: 100%;
+        z-index: -1;
     }
 
    
@@ -441,26 +442,6 @@ line-height: 21px;
 }
 
 
-.footer {
-     background-color: #0A0914;
-}
-
-.footer__inner {
-    text-align: center;
-    
-    
-
-}
-.footer__logo {
-    
-    
-}
-.footer__logo-img {
-    width: 150px;
-   
-
-
-}
 
 
 
